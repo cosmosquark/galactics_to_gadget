@@ -1,0 +1,2 @@
+vary dr_bins from 3000 to 30000 between resolution in galtograd.f90
+vary n from 2000 to 20000 in makehalo.f90
